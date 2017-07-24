@@ -132,4 +132,15 @@ google-services.json
 
 !/gradle/wrapper/gradle-wrapper.jar
 
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+
 # End of https://www.gitignore.io/api/androidstudio
